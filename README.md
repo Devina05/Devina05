@@ -19,11 +19,11 @@ Hi there 👋<br><br>Nice meeting you, I'm Devina!<br><br>🔭 I’m currently w
 <div> 
   <a href="https://www.linkedin.com/in/devina-gandhi-339a5a294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a
-    href= "https://scholar.google.com/citations?view_op=view_org&hl=en&org=2165853068779312911" target="_blank"><img src="https://scholar.google.com/schhp?style=for-the-badge&logo=google scholar&logoColor=white" target="_blank"></a>
+    href= "https://scholar.google.com/citations?hl=en&user=ttgNG_AAAAAJ" target="_blank"><img src="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=si1U&sa=X&sca_esv=fd50da422e8f4301&sxsrf=ANbL-n4rIxjN7uSBWL01tfKBrIUBAOyDSA:1775979469595&udm=2&fbs=ADc_l-bZnt6jMmErT-KRarIgXyuyzQTJF2PfkaOcTEalUPOVQOtlzownaoM46W2pScWjtBeiLTI6jl7uuBUhx4iC4iPTZBHm1MaBNVU7p3cMU-5up5qpcrBZsN3cQeWL0D6cs-DpxR5JbhOFfTTdza2RHkSlOxDxvcbUnIYcK_zWTxxb4HkRpuCORK6QYoZ4uH423v2N6PcN1y3RFlGOc7CFf13vQbNC3FD6NouQS8GsO75erbdq69Q&q=google+scholar&ved=2ahUKEwiX_aaL5-eTAxWpRmcHHXKwG7AQtKgLegQIJxAB&biw=392&bih=784&dpr=2.75" target="_blank"></a>
   <a href = "mailto: devinagandhi2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
  
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Devina05/Devina05/blob/output/github-contribution-grid-snake.svg)
  
 </div>
